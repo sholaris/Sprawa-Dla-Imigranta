@@ -1,0 +1,56 @@
+/* FOLDERS CARDS */
+.grey-box.folders h2 {
+  text-align: left;
+  padding: 0 700px 0 40px;
+  margin-bottom: 60px;
+  font-size: 1.7rem;
+  letter-spacing: 1px;
+}
+.grey-box.folders {
+  text-align: left;
+  padding: 20px 100px;
+}
+.folder-card {
+  display: inline-flex;
+  margin: 0 30px 40px 30px;
+  min-height: 385px;
+  width: 310px;
+  background-color: white;
+  box-shadow: 1px 1px 5px black;
+  border: 2px solid var(--deep-blue);
+  border-radius: 0;
+}
+.folder-card:hover {
+  transform: none;
+}
+.folder-card .header {
+  background-color: var(--deep-blue);
+  height: 90px;
+  padding: 20px 10px;
+  color: var(--layout-text-color);
+}
+.folder-card .header h4 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+.folder-card ul {
+  list-style-type: none;
+  margin-top: 15px;
+  padding: 5px 40px 5px 30px;
+  font-size: 0.85rem;
+}
+.folder-card ul li {
+  text-align: left;
+}
+.folder-card ul li a:hover {
+  cursor: pointer;
+  font-weight: 700;
+}
+hr.folder-separator {
+  margin: 8px 0;
+  border-top: 0.5px solid darkgray;
+  width: 95%;
+}

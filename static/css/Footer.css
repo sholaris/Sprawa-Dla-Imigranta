@@ -1,0 +1,29 @@
+/* FOOTER */
+
+.footer-container {
+  background-color: var(--deep-blue);
+  height: 197px;
+  padding: 30px;
+}
+.footer-nav {
+  padding: 30px 0;
+  text-align: center;
+}
+.footer-nav a {
+  margin: 15px 30px;
+  position: relative;
+  max-width: 200px;
+  padding: 0;
+  color: var(--layout-text-color) !important;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+.footer-copyright {
+  padding-top: 40px;
+  text-align: center;
+}
+.footer-copyright p {
+  color: var(--layout-text-color);
+  font-size: 0.85rem;
+  margin: 0;
+}

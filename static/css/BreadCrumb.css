@@ -1,0 +1,14 @@
+/* BREADCRUMB MENU */
+.folders-navigation {
+  margin-left: 20px;
+}
+.folders-navigation .fa-home {
+  height: 25px;
+  width: 25px;
+}
+.folders-navigation a {
+  color: #6c757d;
+}
+.folders-navigation ol {
+  background-color: transparent;
+}

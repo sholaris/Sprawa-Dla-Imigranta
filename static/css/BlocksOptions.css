@@ -1,0 +1,69 @@
+/* MENU BLOCKS MAIN*/
+.origin-header {
+  margin: 0 auto;
+}
+.origin-header h2 {
+  text-align: center;
+  margin: 14px;
+}
+.row.origins.last-row {
+  padding-bottom: 48px;
+}
+.row.origins.last-row .col {
+  padding-left: 30%;
+}
+.row.origins a {
+  text-decoration: none;
+  cursor: pointer;
+}
+.row .block-option {
+  background-color: var(--deep-blue);
+  color: var(--layout-text-color);
+  transition: all 0.2s ease-in-out;
+  max-width: 450px;
+  max-height: 85px;
+}
+.obywatele_ue,
+.obywatele_wb,
+.obywatele_pt {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}
+.row .block-option:hover {
+  border-radius: 10px;
+  background-color: var(--block-background);
+}
+.row .block-option h2 {
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  line-height: 1.4rem;
+}
+.grey-box .button-col {
+  padding: 40px 0 0 0;
+}
+.grey-box.goto-forum {
+  padding-bottom: 40px;
+}
+/* MENU BLOCKS PERMANENT RESIDENCE PERMIT*/
+
+.permanent-residence-permit {
+  padding-bottom: 50px;
+  margin: 0 200px 0 200px;
+  max-width: 1600px;
+}
+.permanent-residence-permit .col {
+  max-width: 600px;
+}
+.permanent-residence-permit .block-option {
+  max-height: 150px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.permanent-residence-permit .block-option:hover {
+  cursor: pointer;
+}

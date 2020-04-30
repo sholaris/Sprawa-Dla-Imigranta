@@ -1,0 +1,176 @@
+/* FOLDERS SECTION */
+.wrapper {
+  max-width: 100%;
+  padding: 0 100px;
+}
+.wrapper.main-content-section {
+  margin-bottom: 70px;
+}
+.wrapper h2 {
+  font-weight: 700;
+  text-align: left;
+}
+hr.separator-sh {
+  width: 300px;
+  border: 1px solid darkgray;
+}
+.wrapper img.main-content {
+  max-width: 75%;
+  border-radius: 100%;
+}
+.jumbotron {
+  border-radius: 0;
+  text-align: justify;
+}
+.note-left,
+.note-right {
+  padding: 1rem;
+  color: black;
+  text-shadow: none;
+  max-width: 75%;
+}
+.note-left {
+  box-shadow: 2px 2px 8px black;
+}
+.note-right {
+  box-shadow: -2px 2px 8px black;
+}
+.folders-row-content {
+  margin: 100px 0;
+}
+.col {
+  margin: 0;
+}
+/* FORUM CARDS SECTION*/
+.card {
+  background-color: #f1f1f2;
+  border-radius: 5px;
+  box-shadow: 3px 3px 8px black;
+  min-height: 430px;
+  max-width: 370px;
+  text-align: center;
+  transition: all 0.5s ease-out;
+}
+.card:hover {
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(1.05);
+}
+.card-title {
+  font-weight: 700;
+  margin-bottom: 30px;
+  font-size: 2rem;
+}
+.card-text {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+.icon-container {
+  margin: 30px 0;
+  position: relative;
+  left: 25%;
+  min-height: 170px;
+  max-width: 50%;
+  background-color: var(--deep-blue);
+  border-radius: 100%;
+  color: var(--layout-text-color);
+  text-align: center;
+  padding: 40px 0;
+  box-shadow: 3px 3px 10px black;
+}
+.icon-container .fa-user,
+.fa-user-edit,
+.fa-user-check {
+  max-width: 50%;
+  max-height: 70px;
+}
+.icon-container .fa-user-edit,
+.fa-user-check {
+  margin-left: 15px;
+}
+.icon-container .fa-list-alt {
+  position: absolute;
+  left: 105px;
+  top: 50px;
+  width: 35px;
+  height: 45px;
+}
+/* FORMS SECTION - STEPS */
+.grey-box {
+  background-color: var(--shiny-grey);
+  border-top: 3px solid #dddddd;
+  padding-top: 20px;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: left;
+  min-width: 100%;
+}
+.grey-box .col {
+  padding: 50px 50px 10px 50px;
+}
+.entity-paragraph {
+  position: relative;
+  padding-bottom: 50px;
+}
+.step-number {
+  float: left;
+  padding-right: 30px;
+  margin-top: 30px;
+}
+.step-number h3 {
+  font-weight: 700;
+}
+.step-line {
+  display: block;
+  width: 3px;
+  height: 100%;
+  background-color: var(--deep-blue);
+  position: absolute;
+  margin-left: 163px;
+}
+.step-label-wrapper {
+  float: left;
+  line-height: 1rem;
+  border: 3px solid var(--deep-blue);
+  border-radius: 100%;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+  padding: 25px;
+  width: 100px;
+  height: 100px;
+}
+.fa-file-alt,
+.fa-edit,
+.fa-file-download {
+  max-height: 40px;
+}
+.step-content {
+  margin-left: 250px;
+  text-align: justify;
+  font-size: 1.1rem;
+}
+.step-content hr.extra-bold {
+  border-bottom: 3px solid black;
+}
+.step-content h1,
+h2,
+h3 {
+  font-weight: 700;
+}
+/* FORMS SECTION - IMG */
+.img-wrapper {
+  background-color: var(--deep-blue);
+  padding: 30px;
+  text-align: center;
+}
+.img-wrapper img {
+  width: 100%;
+  height: 100%;
+}
+.button-container {
+  text-align: center;
+  padding: 30px;
+  margin-top: 80px;
+}

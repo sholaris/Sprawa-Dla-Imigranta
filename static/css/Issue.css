@@ -1,0 +1,28 @@
+.issue {
+  padding-bottom: 80px;
+}
+.issue-content {
+  margin: 0 300px;
+  color: rgb(73, 73, 73);
+  min-height: 100%;
+}
+.issue-content p {
+  text-align: justify;
+  margin: 0;
+  padding: 5px 0;
+}
+.issue-content h1,
+.issue-content h2 {
+  color: #29317b;
+  font-weight: 500;
+  text-align: left;
+}
+.issue-content h1 {
+  font-size: 2.3rem;
+  line-height: 1.2;
+  margin: 50px 0;
+}
+.issue-content h2 {
+  font-size: 1.5rem;
+  margin: 30px 0;
+}
