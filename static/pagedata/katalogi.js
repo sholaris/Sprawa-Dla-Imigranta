@@ -99,10 +99,10 @@ const katalogi = {
     {
       tytul: "przeniesienie wewnątrz przedsiębiorstwa",
       opcje: [
-        "Informacje ogólne dotyczące przeniesienia wenwątrz przedsiębiorstwa",
+        "Informacje ogólne",
         "Przeniesienie wewnątrz przedsiębiorstwa (ICT)",
-        "Mobilnośc długoterminowa w ramach przeniesienia wewnątrz przedsiębiorstwa",
-        "Mobilnośc krótkoterminowa w ramach przeniesienia wewnątrz przedsiębiorstwa",
+        "Mobilność długoterminowa w ramach przeniesienia wewnątrz przedsiębiorstwa",
+        "Mobilność krótkoterminowa w ramach przeniesienia wewnątrz przedsiębiorstwa",
       ],
     },
   ],
