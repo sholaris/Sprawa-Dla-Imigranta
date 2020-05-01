@@ -12,13 +12,10 @@ const Folders = (props) => {
 
   const getIssues = () => {
     if (props.type == "obywatele_ue") {
-      console.log(katalogi.obywatel_ue);
       setIssues(katalogi.obywatel_ue);
     } else if (props.type == "obywatele_wb") {
-      console.log(katalogi.obywatel_wb);
       setIssues(katalogi.obywatel_wb);
     } else if (props.type == "obywatele_pt") {
-      console.log(katalogi.obywatel_pt);
       setIssues(katalogi.obywatel_pt);
     }
   };

@@ -1,10 +1,7 @@
 import { Card } from "react-bootstrap";
 import Link from "next/link";
-import { useState } from "react";
 
-const Folder = ({ title, options, onClick }) => {
-  const [id, setId] = useState([]);
-
+const Folder = ({ title, options }) => {
   return (
     <Card className="folder-card">
       <div className="header">
@@ -12,11 +9,12 @@ const Folder = ({ title, options, onClick }) => {
       </div>
       <ul>
         {options.map((option) => (
-          <Link href="/cudzoziemcy/[id]" as={`/cudzoziemcy/${id}`}>
-            <li key={option}>
-              <a onClick={onClick} className={option}>
-                {option}
-              </a>
+          <Link
+            href="/cudzoziemcy/[id]"
+            as={`/cudzoziemcy/${option.split(" ").join("-").toLowerCase()}`}
+          >
+            <li>
+              <a className={option}>{option}</a>
               <hr className="folder-separator" />
             </li>
           </Link>

@@ -2,7 +2,7 @@ const katalogi = {
   obywatel_ue: [
     {
       tytul: "Zasady wjazdu i pobytu",
-      opcje: ["Informacje ogólne"],
+      opcje: ["Zasady wjazdu i pobytu"],
     },
     {
       tytul: "Obywatel UE",
@@ -36,7 +36,7 @@ const katalogi = {
     {
       tytul: "Brexit",
       opcje: [
-        "Informacje ogólne",
+        "Informacje ogólne o Brexicie",
         "Najczęściej zadawane pytania",
         "Dedykowana strona",
       ],
@@ -61,12 +61,15 @@ const katalogi = {
     },
     {
       tytul: "praca w polsce",
-      opcje: ["Informacje ogólne", "Uzyskanie zezwolenia na pracę w Polsce"],
+      opcje: [
+        "Praca w Polsce informacje ogólne",
+        "Uzyskanie zezwolenia na pracę w Polsce",
+      ],
     },
     {
       tytul: "karta pobytu",
       opcje: [
-        "Informajce o dokumencie",
+        "Informacje o dokumencie",
         "Wymiana karty pobytu",
         "Wydanie kolejnej karty pobytu",
       ],
@@ -96,7 +99,7 @@ const katalogi = {
     {
       tytul: "przeniesienie wewnątrz przedsiębiorstwa",
       opcje: [
-        "Informacje ogólne",
+        "Informacje ogólne dotyczące przeniesienia wenwątrz przedsiębiorstwa",
         "Przeniesienie wewnątrz przedsiębiorstwa (ICT)",
         "Mobilnośc długoterminowa w ramach przeniesienia wewnątrz przedsiębiorstwa",
         "Mobilnośc krótkoterminowa w ramach przeniesienia wewnątrz przedsiębiorstwa",
