@@ -2,7 +2,7 @@ import { Container } from "react-bootstrap";
 import BaseLayout from "../BaseLayout";
 import FoldersHeaderBar from "../../shared/Cudzoziemcy/FoldersHeaderBar";
 import FoldersMainContent from "../../shared/Cudzoziemcy/FoldersMainContent";
-import OriginMenu from "../../shared/Cudzoziemcy/OriginMenu";
+import OriginMenu from "../shared/Cudzoziemcy/OriginMenu";
 
 class FoldersPageLayout extends React.Component {
   constructor(props) {
