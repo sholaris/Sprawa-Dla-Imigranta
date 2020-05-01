@@ -1,4 +1,4 @@
-import FoldersPageLayout from "../components/Layouts/FoldersPage/FoldersPageLayout";
+import FoldersPageLayout from "../components/Layouts/FoldersPageLayout";
 
 const Cudzoziemcy = () => {
   return <FoldersPageLayout title="Cudzoziemcy | Sprawa Dla Imigranta" />;

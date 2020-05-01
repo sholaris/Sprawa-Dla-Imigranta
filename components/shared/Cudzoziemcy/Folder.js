@@ -13,7 +13,7 @@ const Folder = ({ title, options, onClick }) => {
       <ul>
         {options.map((option) => (
           <Link href="/cudzoziemcy/[id]" as={`/cudzoziemcy/${id}`}>
-            <li>
+            <li key={option}>
               <a onClick={onClick} className={option}>
                 {option}
               </a>

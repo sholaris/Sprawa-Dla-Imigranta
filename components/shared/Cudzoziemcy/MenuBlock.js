@@ -1,15 +1,13 @@
-import Link from "next/link";
-
-const MenuBlock = (props) => {
+const MenuBlock = React.forwardRef(({ index, title, onClick, href }, ref) => {
   return (
-    <a onClick={props.onClick} className={props.index}>
+    <a href={href} ref={ref} onClick={onClick} className={index}>
       <div className="block-option">
-        <div id={props.title} className={props.index}>
-          <h2 className={props.index}>{props.title}</h2>
+        <div id={title} className={index}>
+          <h2 className={index}>{title}</h2>
         </div>
       </div>
     </a>
   );
-};
+});
 
 export default MenuBlock;

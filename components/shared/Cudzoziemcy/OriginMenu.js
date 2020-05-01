@@ -1,5 +1,6 @@
 import { Row, Col, Button, Container } from "react-bootstrap";
 import MenuBlock from "./MenuBlock";
+import Link from "next/link";
 
 const OriginMenu = (props) => {
   return (
@@ -11,44 +12,44 @@ const OriginMenu = (props) => {
         <Container className="row-wrapper">
           <Row className="origins">
             <Col>
-              <MenuBlock
-                index="obywatele_ue"
-                link="obywatele-ue-oraz-eogszwajcarii-i-członkowie-ich-rodzin"
-                title="Obywatele UE (oraz EOG/Szwajcarii) i członkowie ich rodzin"
-                onClick={props.onClick}
-              />
+              <Link
+                href="/obywatele-ue"
+                as="cudzoziemcy/obywatele-ue-oraz-eogszwajcarii-i-członkowie-ich-rodzin"
+                passHref
+              >
+                <MenuBlock
+                  index="obywatele_ue"
+                  title="Obywatele UE (oraz EOG/Szwajcarii) i członkowie ich rodzin"
+                />
+              </Link>
             </Col>
             <Col>
-              <MenuBlock
-                index="obywatele_pt"
-                link="obywatele-panstw-trzecich"
-                title="Obywatele państw trzecich "
-                onClick={props.onClick}
-              />
+              <Link
+                href="/obywatele-pt"
+                as="cudzoziemcy/obywatele-panstw-trzecich"
+                passHref
+              >
+                <MenuBlock
+                  index="obywatele_pt"
+                  title="Obywatele państw trzecich "
+                />
+              </Link>
             </Col>
           </Row>
         </Container>
         <Container className="row-wrapper">
           <Row className="origins last-row">
             <Col>
-              <MenuBlock
-                index="obywatele_wb"
-                link="obywatele-wielkiej-brytani"
-                title="Obywatele Wielkiej Brytani (brexit) "
-                onClick={props.onClick}
-              />
-            </Col>
-          </Row>
-        </Container>
-      </Container>
-      <Container className="grey-box goto-forum">
-        <Container className="row-wrapper">
-          <Row>
-            <Col>
-              <h4>Po więcej informacji udaj się na nasze forum!</h4>
-            </Col>
-            <Col className="button-col">
-              <Button>Forum</Button>
+              <Link
+                href="/obywatele-wb"
+                as="cudzoziemcy/obywatele-wielkiej-brytanii-(brexit)"
+                passHref
+              >
+                <MenuBlock
+                  index="obywatele_wb"
+                  title="Obywatele Wielkiej Brytani (brexit) "
+                />
+              </Link>
             </Col>
           </Row>
         </Container>

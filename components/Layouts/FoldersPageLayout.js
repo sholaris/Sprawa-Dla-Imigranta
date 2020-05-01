@@ -1,40 +1,16 @@
-import { Container } from "react-bootstrap";
-import BaseLayout from "../BaseLayout";
-import FoldersHeaderBar from "../../shared/Cudzoziemcy/FoldersHeaderBar";
-import FoldersMainContent from "../../shared/Cudzoziemcy/FoldersMainContent";
+import BaseLayout from "./BaseLayout";
+import ForumLink from "../shared/Cudzoziemcy/ForumLink";
+import FoldersHeaderBar from "../shared/Cudzoziemcy/FoldersHeaderBar";
 import OriginMenu from "../shared/Cudzoziemcy/OriginMenu";
 
-class FoldersPageLayout extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      origin: "",
-      header: "",
-    };
-  }
-
-  handleChange = (e) => {
-    this.setState({
-      origin: e.target.className,
-      header: e.target.childNodes[0].innerHTML || e.target.childNodes[0].data,
-    });
-  };
-
-  render() {
-    return (
-      <BaseLayout title={this.props.title}>
-        <Container className="wrapper">
-          <FoldersHeaderBar />
-          {/* <OriginMenu /> */}
-          <FoldersMainContent
-            header={this.state.header}
-            content={this.state.origin}
-            onClick={this.handleChange}
-          />
-        </Container>
-      </BaseLayout>
-    );
-  }
-}
+const FoldersPageLayout = (props) => {
+  return (
+    <BaseLayout title={props.title}>
+      <FoldersHeaderBar />
+      <OriginMenu />
+      <ForumLink />
+    </BaseLayout>
+  );
+};
 
 export default FoldersPageLayout;

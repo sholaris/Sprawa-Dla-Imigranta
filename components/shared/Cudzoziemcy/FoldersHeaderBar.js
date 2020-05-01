@@ -19,7 +19,7 @@ const FoldersHeaderBar = () => {
       <Row className="folders-navigation">
         <Breadcrumb>
           <Breadcrumb.Item href="/">
-            <FontAwesomeIcon icon={"home"} />
+            {/* <FontAwesomeIcon icon="home" /> */}
           </Breadcrumb.Item>
         </Breadcrumb>
       </Row>

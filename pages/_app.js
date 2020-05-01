@@ -10,6 +10,7 @@ import "../static/css/FoldersCards.css";
 import "../static/css/Form.css";
 import "../static/css/FormsList.css";
 import "../static/css/Footer.css";
+import "../static/css/ForumLink.css";
 import "../static/css/Issue.css";
 
 export default function MyApp({ Component, pageProps }) {
