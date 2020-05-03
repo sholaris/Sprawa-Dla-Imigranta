@@ -29,17 +29,14 @@ const katalogi = {
     {
       tytul: "Zasady pobytu obywateli Wielkiej Brytanii w Polsce po brexicie",
       opcje: [
+        "Zasady pobytu obywateli Wielkiej Brytanii w Polsce po bexicie",
         "Umowa o wystąpienie i okres przejściowy",
         "Po zakończeniu okresu przejściowego",
       ],
     },
     {
       tytul: "Brexit",
-      opcje: [
-        "Informacje ogólne o Brexicie",
-        "Najczęściej zadawane pytania",
-        "Dedykowana strona",
-      ],
+      opcje: ["Informacje ogólne o Brexicie", "Dedykowana strona", "FAQ"],
     },
   ],
   obywatel_pt: [
