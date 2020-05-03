@@ -1,7 +1,15 @@
 import { Card } from "react-bootstrap";
 import Link from "next/link";
 
-const Folder = ({ title, options }) => {
+const Folder = ({ title, options, category }) => {
+  if (category == "Obywatele Wielkiej Brytanii (Brexit)") {
+    category = category.split(/[\s]+/).join("-").toLowerCase();
+  } else {
+    category = category
+      .split(/[\s()/]+/)
+      .join("-")
+      .toLowerCase();
+  }
   return (
     <Card className="folder-card">
       <div className="header">
@@ -10,8 +18,11 @@ const Folder = ({ title, options }) => {
       <ul>
         {options.map((option) => (
           <Link
-            href="/cudzoziemcy/[id]"
-            as={`/cudzoziemcy/${option.split(" ").join("-").toLowerCase()}`}
+            href={`/cudzoziemcy/${category}/[id]`}
+            as={`/cudzoziemcy/${category}/${option
+              .split(" ")
+              .join("-")
+              .toLowerCase()}`}
           >
             <li>
               <a className={option}>{option}</a>

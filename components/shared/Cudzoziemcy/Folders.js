@@ -25,7 +25,7 @@ const Folders = (props) => {
       <h2>{props.header}</h2>
       {issues.map((issue) => (
         <Folder
-          onClick={props.onClick}
+          category={props.header}
           title={issue.tytul}
           options={issue.opcje}
         />
