@@ -5,7 +5,7 @@ import ForumLink from "../components/shared/Cudzoziemcy/ForumLink";
 
 const obywateleUE = () => {
   return (
-    <BaseLayout>
+    <BaseLayout title="Obywatele UE (oraz EOG/Szwajcarii) i członkowie ich rodzin">
       <FoldersHeaderBar />
       <Folders
         header="Obywatele UE (oraz EOG/Szwajcarii) i członkowie ich rodzin"

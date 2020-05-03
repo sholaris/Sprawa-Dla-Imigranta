@@ -5,7 +5,7 @@ import ForumLink from "../components/shared/Cudzoziemcy/ForumLink";
 
 const obywatelePT = () => {
   return (
-    <BaseLayout>
+    <BaseLayout title="Obywatele państw trzecich">
       <FoldersHeaderBar />
       <Folders header="Obywatele państw trzecich" type="obywatele_pt" />
       <ForumLink />

@@ -5,7 +5,7 @@ import ForumLink from "../components/shared/Cudzoziemcy/ForumLink";
 
 const obywateleWB = () => {
   return (
-    <BaseLayout>
+    <BaseLayout title="Obywatele Wielkiej Brytanii (Brexit)">
       <FoldersHeaderBar />
       <Folders
         header="Obywatele Wielkiej Brytanii (Brexit)"
