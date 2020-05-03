@@ -2,7 +2,7 @@
 title: "Obowiązek uzyskania zezwolenia na pracę cudzoziemca"
 ---
 
-# Uzyskanie zezwolenia na pracę w Polsce
+## Uzyskanie zezwolenia na pracę w Polsce
 
 Zezwolenie na pracę jest decyzją właściwego organu, uprawniającą cudzoziemca przebywającego w Polsce legalnie, do wykonywania pracy na warunkach określonych w treści zezwolenia. Dokument ten wydawany jest na wniosek podmiotu powierzającego wykonywanie pracy cudzoziemcowi przez wojewodę właściwego ze względu na jego siedzibę lub miejsce zamieszkania.
 
