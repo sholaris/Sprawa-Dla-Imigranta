@@ -2,7 +2,7 @@ import BaseLayout from "../Layouts/BaseLayout";
 import Tabs from "../shared/Wnioski/Tabs";
 import PhotoBanner from "../shared/Wnioski/PhotoBanner";
 import FormsMainContent from "../shared/Wnioski/FormsMainContent";
-import "../../static/fontawesome/fontawesome";
+import "../../public/static/fontawesome/fontawesome";
 
 class FormsLayout extends React.Component {
   constructor(props) {

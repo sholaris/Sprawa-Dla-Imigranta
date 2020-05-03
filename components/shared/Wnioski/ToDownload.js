@@ -1,4 +1,4 @@
-import wnioski from "../../../static/pagedata/wnioski";
+import wnioski from "../../../public/static/pagedata/wnioski";
 import FormBar from "../../shared/Wnioski/FormBar";
 import { useState, useEffect } from "react";
 

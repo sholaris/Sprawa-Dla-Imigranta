@@ -1,7 +1,7 @@
 import Folder from "./Folder";
 import { Container } from "react-bootstrap";
 import { useState, useEffect } from "react";
-import katalogi from "../../../static/pagedata/katalogi";
+import katalogi from "../../../public/static/pagedata/katalogi";
 
 const Folders = (props) => {
   const [issues, setIssues] = useState([]);

@@ -1,17 +1,17 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import "../static/css/main.css";
-import "../static/css/Navbar.css";
-import "../static/css/Slider.css";
-import "../static/css/JumboBanner.css";
-import "../static/css/Home.css";
-import "../static/css/BlocksOptions.css";
-import "../static/css/BreadCrumb.css";
-import "../static/css/FoldersCards.css";
-import "../static/css/Form.css";
-import "../static/css/FormsList.css";
-import "../static/css/Footer.css";
-import "../static/css/ForumLink.css";
-import "../static/css/Issue.css";
+import "../public/static/css/main.css";
+import "../public/static/css/Navbar.css";
+import "../public/static/css/Slider.css";
+import "../public/static/css/JumboBanner.css";
+import "../public/static/css/Home.css";
+import "../public/static/css/BlocksOptions.css";
+import "../public/static/css/BreadCrumb.css";
+import "../public/static/css/FoldersCards.css";
+import "../public/static/css/Form.css";
+import "../public/static/css/FormsList.css";
+import "../public/static/css/Footer.css";
+import "../public/static/css/ForumLink.css";
+import "../public/static/css/Issue.css";
 
 export default function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;

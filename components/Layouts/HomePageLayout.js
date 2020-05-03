@@ -5,7 +5,7 @@ import Banner from "../shared/HomePage/Banner";
 import FoldersSection from "../shared/HomePage/FoldersSection";
 import ForumSection from "../shared/HomePage/ForumSection";
 import FormsSection from "../shared/HomePage/FormsSection";
-import "../../static/fontawesome/fontawesome";
+import "../../public/static/fontawesome/fontawesome";
 
 const Home = ({ title }) => {
   return (
