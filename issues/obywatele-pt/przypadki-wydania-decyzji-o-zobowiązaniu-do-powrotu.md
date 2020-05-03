@@ -2,8 +2,6 @@
 title: "Przypadki, w których wydawana jest decyzja o zobowiązaniu cudzoziemca do powrotu"
 ---
 
-## Przypadki, w których wydawana jest decyzja o zobowiązaniu cudzoziemca do powrotu
-
 Decyzję o zobowiązaniu cudzoziemca do powrotu wydaje się cudzoziemcowi, gdy:
 
 1. przebywa lub przebywał na terytorium Rzeczypospolitej Polskiej bez ważnej wizy lub innego ważnego dokumentu uprawniającego go do wjazdu na to terytorium i pobytu na nim, jeżeli wiza lub inny dokument są lub były wymagane lub

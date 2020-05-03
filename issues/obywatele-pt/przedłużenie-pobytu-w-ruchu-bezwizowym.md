@@ -2,8 +2,6 @@
 title: "Przedłużenie pobytu w ruchu bezwizowym"
 ---
 
-# Przedłużenie pobytu w ruchu bezwizowym
-
 Cudzoziemcowi, który przebywa na terytorium Rzeczypospolitej Polskiej na podstawie umowy międzynarodowej o zniesieniu obowiązku wizowego lub wobec którego stosuje się częściowe lub całkowite zniesienie obowiązku wizowego, można przedłużyć w uzasadnionych przypadkach okres pobytu na terytorium Rzeczypospolitej Polskiej o kolejne 90 dni, jeżeli możliwość taka jest przewidziana w umowie o zniesieniu obowiązku wizowego. (Obecnie przewidują to umowy z **Brazylią, Argentyną, Chile, Hondurasem, Kostaryką, Nikaraguą, Singapurem i Urugwajem**).
 
 ## Podstawa prawna:

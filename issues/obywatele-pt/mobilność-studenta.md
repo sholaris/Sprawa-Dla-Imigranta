@@ -2,8 +2,6 @@
 title: "Mobilność studenta"
 ---
 
-# Mobilność studenta
-
 Posiadacze dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z dnia 15.06.2002, str. 1, z późn. zm.) lub wizy długoterminowej, **z adnotacją „student”, wydanego przez inne państwo członkowskie Unii Europejskiej** stosujące dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/801 z dnia 11 maja 2016 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w celu prowadzenia badań naukowych, odbycia studiów, szkoleń, udziału w wolontariacie, programach wymiany młodzieży szkolnej lub projektach edukacyjnych oraz podjęcia pracy w charakterze au pair (wersja przekształcona) (Dz. Urz. UE L 132 z 21.05.2016, str. 21) (nie dotyczy to zatem dokumentów pobytowych wydanych przez Wielką Brytanię, Irlandię oraz Danię), **w tym przez państwo nie należące do obszaru Schengen**, mogą korzystać z mobilności studenta na terytorium Rzeczypospolitej Polskiej w okresie nieprzekraczającym okresu ważności tego dokumentu pobytowego lub wizy długoterminowej, co oznacza **prawo do wjazdu, pobytu w celu kontynuacji lub uzupełnienia studiów podjętych na terytorium innego państwa członkowskiego Unii Europejskiej w okresie do 360 dni**, niezależnie od możliwości korzystania z tej mobilności w innych państwach członkowskich UE stosujących dyrektywę 2016/801/UE, na określonych warunkach.
 
 Cudzoziemiec będący **studentem lub doktorantem** może skorzystać z **mobilności studenta**, jeżeli spełnione są łącznie następujące warunki:

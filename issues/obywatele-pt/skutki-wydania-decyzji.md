@@ -2,8 +2,6 @@
 title: Skutki wydania decyzji
 ---
 
-## Skutki wydania decyzji
-
 Wydanie ostatecznej decyzji o zobowiązaniu cudzoziemca do powrotu powoduje z mocy prawa:
 
 - unieważnienie posiadanej przez cudzoziemca wizy krajowej oraz

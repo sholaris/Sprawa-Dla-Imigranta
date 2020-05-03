@@ -2,8 +2,6 @@
 title: "Zaproszenie dla cudzoziemca"
 ---
 
-# Zaproszenie dla cudzoziemca
-
 ## Czym jest dokument zaproszenia
 
 Zaproszenie jest dokumentem, potwierdzającym posiadanie przez zapraszanego cudzoziemca środków finansowych wystarczających na pokrycie kosztów związanych z planowanym pobytem na terytorium Polski w tym kosztów zakwaterowania i wyżywienia, oraz na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd. Zaproszenie nie jest dokumentem uprawniającym do podjęcia pracy na terytorium Polski. Dokument ten może zostać przedstawiony w trakcie ubiegania się o wizę lub podczas kontroli granicznej.

@@ -2,8 +2,6 @@
 title: "Wymiana karty pobytu"
 ---
 
-# Wymiana karty pobytu
-
 ## Kiedy należy wymienić kartę pobytu
 
 Kartę pobytu wymienia się w przypadku:

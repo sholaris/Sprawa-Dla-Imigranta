@@ -2,8 +2,6 @@
 title: "Wydanie kolejnej karty pobytu"
 ---
 
-# Wydanie kolejnej karty pobytu
-
 **KOLEJNA KARTA POBYTU DLA CUDZOZIEMCÓW PRZEBYWAJĄCYCH W POLSCE NA PODSTAWIE ZEZWOLENIA NA POBYT STAŁY, ZEZWOLENIA NA POBYT REZYDENTA DŁUGOTERMINOWEGO UE, ZGODY NA POBYT ZE WZGLĘDÓW HUMANITARNYCH**
 
 Cudzoziemcy przebywający w Polsce na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego UE, zgody na pobyt ze względów humanitarnych (a więc tytułów pobytowych, które udzielane są w Polsce na czas nieoznaczony) mają obowiązek uzyskania kolejnej karty pobytu przed upływem okresu ważności posiadanej dotychczas karty pobytu.

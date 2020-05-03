@@ -1,8 +1,6 @@
 ---
-title: "Chcę pracować w Polsce"
+title: "Praca w polsce informacje ogólne"
 ---
-
-# Praca w polsce informacje ogólne
 
 ## Zachęcamy do zapoznania się z MATERIAŁAMI INFORMACYJNYMI
 

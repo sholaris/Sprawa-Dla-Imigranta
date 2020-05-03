@@ -2,8 +2,6 @@
 title: "Mobilność długoterminowa w ramach przeniesienia wewnątrz przedsiębiorstwa"
 ---
 
-# Mobilność długoterminowa w ramach przeniesienia wewnątrz przedsiębiorstwa
-
 ## Zezwolenie na pobyt czasowy w celu korzystania z mobilności długoterminowej
 
 Podstawa prawna – ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach – art. 139o ustawy – wraz z aktami wykonawczymi.

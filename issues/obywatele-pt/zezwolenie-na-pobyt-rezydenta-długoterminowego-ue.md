@@ -2,8 +2,6 @@
 title: "Zezwolenie na pobyt rezydenta długoterminowego UE"
 ---
 
-# Zezwolenie na pobyt rezydenta długoterminowego UE
-
 Podstawa prawna – ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach – art. 211- wraz z aktami wykonawczymi
 
 ## Komu i na jaki okres może zostać udzielone

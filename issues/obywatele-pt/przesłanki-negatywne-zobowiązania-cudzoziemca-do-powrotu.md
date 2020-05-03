@@ -2,8 +2,6 @@
 title: "Przesłanki negatywne zobowiązania cudzoziemca do powrotu"
 ---
 
-# Przesłanki negatywne zobowiązania cudzoziemca do powrotu
-
 ## Przypadki, w których nie można wydać decyzji o zobowiązaniu cudzoziemca do powrotu
 
 W przypadkach, w których istnieją przesłanki do wydania decyzji o zobowiązaniu cudzoziemca do powrotu, decyzji tej nie wydaje się, gdy cudzoziemiec:

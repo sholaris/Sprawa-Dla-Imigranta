@@ -2,8 +2,6 @@
 title: "Przedłużenie wizy krajowej"
 ---
 
-# Przedłużenie wizy krajowej
-
 ## Przedłużenie wizy krajowej
 
 Przedłużenie okresu ważności wydanej wizy krajowej lub okresu pobytu objętego tą wizą może nastąpić, jeżeli są spełnione **łącznie** następujące warunki:

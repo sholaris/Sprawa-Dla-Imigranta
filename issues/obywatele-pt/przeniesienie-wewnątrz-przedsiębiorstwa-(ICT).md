@@ -2,8 +2,6 @@
 title: "Przeniesienie wewnątrz przedsiębiorstwa (ICT)"
 ---
 
-# Przeniesienie wewnątrz przedsiębiorstwa (ICT)
-
 ## Zezwolenie na pobyt czasowy w celu wykonywania pracy w ramach przeniesienia wewnątrz przedsiębiorstwa
 
 Podstawa prawna – ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach – art. 139a ustawy – wraz z aktami wykonawczymi.

@@ -2,8 +2,6 @@
 title: "Informacje ogólne"
 ---
 
-# Informacje ogólne
-
 Zasady dotyczące wjazdu i pobytu obywateli państw trzecich w ramach przeniesienia wewnątrz przedsiębiorstwa w państwach członkowskich Unii Europejskiej reguluje dyrektywa Parlamentu Europejskiego i Rady 2014/66/UE z dnia 15 maja 2014 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w ramach przeniesienia wewnątrz przedsiębiorstwa (Dz. Urz. UE L 157 z dnia 27 maja 2014 r., str. 1 – 21), która została wdrożona do polskiego porządku prawnego z dniem 12 lutego 2018 r. na mocy ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. z 2018 r., poz. 107).
 
 Zgodnie z dyrektywą 2014/66/UE przeniesienie wewnątrz przedsiębiorstwa oznacza czasowe oddelegowanie, w celach zawodowych lub szkoleniowych, obywatela państwa trzeciego, którego miejsce pobytu w momencie składania wniosku o zezwolenie na przeniesienie wewnątrz przedsiębiorstwa znajduje się poza terytorium państw członkowskich Unii Europejskiej, z przedsiębiorstwa, które ma siedzibę poza terytorium państwa członkowskiego i z którym obywatel państwa trzeciego jest związany, przed przeniesieniem i w trakcie przeniesienia, umową o pracę, do jednostki należącej do tego przedsiębiorstwa lub tej samej grupy przedsiębiorstw z siedzibą w tym państwie członkowskim, oraz w stosownym przypadku mobilność między jednostkami przyjmującymi mającymi siedzibę w jednym lub kilku drugich państwach członkowskich.

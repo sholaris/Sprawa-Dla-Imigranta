@@ -2,8 +2,6 @@
 title: "Informacje o dokumencie"
 ---
 
-# Informacje o dokumencie
-
 Karta pobytu jest dokumentem pobytowym wydawanym cudzoziemcom, którym udzielono w Polsce:
 
 - zezwolenia na pobyt czasowy;
