@@ -22,7 +22,9 @@ export async function getStaticProps({ params }) {
 const Issue = ({ issueData }) => {
   return (
     <BaseLayout title={`${issueData.title} | Sprawa Dla Imigranta`}>
-      <FoldersHeaderBar />
+      <FoldersHeaderBar
+        breadcrumb={`Cudzoziemcy|Obywatele państw trzecich|${issueData.title}`}
+      />
       <div className="grey-box issue">
         <div className="issue-content">
           <h1 className="issue-title">{issueData.title}</h1>
