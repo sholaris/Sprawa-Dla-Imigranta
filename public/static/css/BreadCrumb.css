@@ -8,6 +8,12 @@
 }
 .folders-navigation a {
   color: #6c757d;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+.folders-navigation a:hover {
+  color: var(--deep-blue);
+  text-shadow: 0.2px 0.2px 1px #353daa;
 }
 .folders-navigation ol {
   background-color: transparent;

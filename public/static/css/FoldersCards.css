@@ -1,18 +1,19 @@
 /* FOLDERS CARDS */
 .grey-box.folders h2 {
-  text-align: left;
-  padding: 0 700px 0 40px;
-  margin-bottom: 60px;
+  text-align: center;
+  padding: 0 auto;
+  margin-bottom: 80px;
+  margin-top: 10px;
   font-size: 1.7rem;
   letter-spacing: 1px;
 }
 .grey-box.folders {
-  text-align: left;
+  text-align: center;
   padding: 20px 100px;
 }
 .folder-card {
   display: inline-flex;
-  margin: 0 20px 40px 20px;
+  margin: 0 30px 40px 30px;
   min-height: 385px;
   width: 305px;
   background-color: white;
