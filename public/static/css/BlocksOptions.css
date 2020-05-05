@@ -71,6 +71,9 @@
   height: 100%;
   line-height: 1.6;
 }
+.permanent-residence-permit a {
+  text-decoration: none;
+}
 .permanent-residence-permit .block-option:hover {
   cursor: pointer;
 }
