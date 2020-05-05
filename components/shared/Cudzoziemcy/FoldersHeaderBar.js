@@ -1,26 +1,25 @@
 import { Breadcrumb, Row, Container } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { generateHref } from "../../../lib/utils";
 
-const parseText = (text) => {
-  var displayedText = true;
-  for (var x = 0; x < text.length; x++) {
-    var c = text.charAt(x);
-
-    if (displayedText && c == "-") {
-      text = text.substring(0, x) + " " + text.substring(x + 1, text.length);
-    }
-  }
-  return text.charAt(0).toUpperCase() + text.slice(1);
-};
-
-const FoldersHeaderBar = () => {
+const FoldersHeaderBar = ({ breadcrumb }) => {
+  const items = breadcrumb.split("|");
+  const section = breadcrumb.split("|");
   return (
     <Container className="grey-box">
       <Row className="folders-navigation">
         <Breadcrumb>
           <Breadcrumb.Item href="/">
-            {/* <FontAwesomeIcon icon="home" /> */}
+            <FontAwesomeIcon icon="home" />
           </Breadcrumb.Item>
+          {items.map((item) => (
+            <Breadcrumb.Item
+              key={item}
+              href={generateHref(items, items.indexOf(item))}
+            >
+              {section[items.indexOf(item)]}
+            </Breadcrumb.Item>
+          ))}
         </Breadcrumb>
       </Row>
     </Container>

@@ -1,15 +1,9 @@
 import { Card } from "react-bootstrap";
 import Link from "next/link";
+import { convertCategory } from "../../../lib/utils";
 
 const Folder = ({ title, options, category }) => {
-  if (category == "Obywatele Wielkiej Brytanii (Brexit)") {
-    category = category.split(/[\s]+/).join("-").toLowerCase();
-  } else {
-    category = category
-      .split(/[\s()/]+/)
-      .join("-")
-      .toLowerCase();
-  }
+  category = convertCategory(category);
   return (
     <Card className="folder-card">
       <div className="header">
@@ -18,14 +12,23 @@ const Folder = ({ title, options, category }) => {
       <ul>
         {options.map((option) => (
           <Link
-            href={`/cudzoziemcy/${category}/[id]`}
-            as={`/cudzoziemcy/${category}/${option
-              .split(" ")
-              .join("-")
-              .toLowerCase()}`}
+            key={option}
+            href={
+              option == "Zezwolenie na pobyt stały"
+                ? `/cudzoziemcy/${category}/zezwolenie-na-pobyt-staly`
+                : `/cudzoziemcy/${category}/[id]`
+            }
+            as={
+              option == "Zezwolenie na pobyt stały"
+                ? `/cudzoziemcy/${category}/zezwolenie-na-pobyt-staly`
+                : `/cudzoziemcy/${category}/${option
+                    .split(" ")
+                    .join("-")
+                    .toLowerCase()}`
+            }
           >
             <li>
-              <a className={option}>{option}</a>
+              <a>{option}</a>
               <hr className="folder-separator" />
             </li>
           </Link>

@@ -2,7 +2,7 @@ import { Row, Col, Button, Container } from "react-bootstrap";
 import MenuBlock from "./MenuBlock";
 import Link from "next/link";
 
-const OriginMenu = (props) => {
+const OriginMenu = () => {
   return (
     <React.Fragment>
       <Container className="grey-box origins">
@@ -13,8 +13,7 @@ const OriginMenu = (props) => {
           <Row className="origins">
             <Col>
               <Link
-                href="/obywatele-ue"
-                as="cudzoziemcy/obywatele-ue-oraz-eogszwajcarii-i-członkowie-ich-rodzin"
+                href="cudzoziemcy/obywatele-ue-oraz-eog-szwajcarii-i-czlonkowie-ich-rodzin"
                 passHref
               >
                 <MenuBlock
@@ -24,11 +23,7 @@ const OriginMenu = (props) => {
               </Link>
             </Col>
             <Col>
-              <Link
-                href="/obywatele-pt"
-                as="cudzoziemcy/obywatele-panstw-trzecich"
-                passHref
-              >
+              <Link href="cudzoziemcy/obywatele-panstw-trzecich" passHref>
                 <MenuBlock
                   index="obywatele_pt"
                   title="Obywatele państw trzecich "
@@ -41,8 +36,7 @@ const OriginMenu = (props) => {
           <Row className="origins last-row">
             <Col>
               <Link
-                href="/obywatele-wb"
-                as="cudzoziemcy/obywatele-wielkiej-brytanii-(brexit)"
+                href="cudzoziemcy/obywatele-wielkiej-brytanii-brexit"
                 passHref
               >
                 <MenuBlock
