@@ -2,10 +2,10 @@ import { Card } from "react-bootstrap";
 import Link from "next/link";
 import { convertCategory } from "../../../lib/utils";
 
-const Folder = ({ title, options, category }) => {
+const Folder = ({ title, options, category, type }) => {
   category = convertCategory(category);
   return (
-    <Card className="folder-card">
+    <Card className={`folder-card ${type}`}>
       <div className="header">
         <h4>{title}</h4>
       </div>
