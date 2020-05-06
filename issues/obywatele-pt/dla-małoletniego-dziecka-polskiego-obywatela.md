@@ -1,16 +1,14 @@
 ---
-title: "Dla małoletniego dziecka cudzoziemca przebywającego w Polsce na podstawie zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE"
+title: "Dla małoletniego dziecka Polskiego obywatela"
 ---
 
 ## Zezwolenie na pobyt stały – dla małoletniego dziecka cudzoziemca przebywającego Polsce na podstawie zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE
 
-**Podstawa prawna – ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach – art. 195 ust. 1 pkt 1 ustawy – wraz z aktami wykonawczymi**
+**Podstawa prawna – ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach – art. 195 ust. 1 pkt 2 ustawy – wraz z aktami wykonawczymi**
 
 ## Komu i na jaki okres może zostać udzielone
 
-Cudzoziemcowi, będącemu dzieckiem cudzoziemca, któremu udzielono zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE pozostającemu pod jego władzą rodzicielską:
-a) urodzonemu po udzieleniu temu cudzoziemcowi zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE, lub
-b) urodzonemu w okresie ważności zezwolenia na pobyt czasowy udzielonego temu cudzoziemcowi lub w okresie pobytu tego cudzoziemca na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany albo w związku z nadaniem mu statusu uchodźcy lub udzieleniem ochrony uzupełniającej.
+Cudzoziemcowi będącemu małoletnim dzieckiem polskiego obywatela, pozostającego pod jego władzą rodzicielską.
 
 **Zezwolenie na pobyt stały udzielane jest na czas nieoznaczony.**
 
@@ -40,8 +38,8 @@ Małoletniemu cudzoziemcowi, który do dnia złożenia wniosku o udzielenie zezw
 **Uwaga:** Dołączenie wymienionych niżej dokumentów do wniosku przy jego składaniu może ograniczyć ilość korespondencji urzędowej i skrócić czas załatwienia sprawy.
 
 1. odpis aktu urodzenia dziecka;
-2. dokumenty potwierdzające posiadanie przez cudzoziemca, pod którego władzą rodzicielską znajduje się małoletni cudzoziemiec, wymaganego prawem zezwolenia na pobyt stały lub rezydenta długoterminowego UE.
-3. dokumenty potwierdzające sprawowanie władzy rodzicielskiej.
+2. kserokopia dowodu osobistego rodzica, będącego polskim obywatelem (oryginał do wglądu).
+3. dokumenty potwierdzające sprawowanie władzy rodzicielskiej nad dzieckiem.
 
 **Uwaga:** W przypadku potrzeby wyjaśnienia lub doprecyzowania posiadanych przez organ dowodów w sprawie w trakcie postępowania cudzoziemiec może być wzywany do dostarczenia dodatkowych dokumentów lub do składania zeznań potwierdzających okoliczności, o których mowa we wniosku.
 

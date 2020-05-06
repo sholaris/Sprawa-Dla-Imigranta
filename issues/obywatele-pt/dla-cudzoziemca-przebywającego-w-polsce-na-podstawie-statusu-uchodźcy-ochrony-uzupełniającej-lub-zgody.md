@@ -1,16 +1,27 @@
 ---
-title: "Dla posiadacza ważnej karty polaka"
+title: "Dla cudzoziemca przebywającego w Polsce na podstawie statusu uchodźcy, ochrony uzupełniającej lub zgody na pobyt ze względów humanitarnych"
 ---
 
-## Zezwolenie na pobyt stały – dla posiadacza ważnej Karty Polaka
+## Zezwolenie na pobyt stały – dla cudzoziemca przebywającego w Polsce na podstawie statusu uchodźcy, ochrony uzupełniającej lub zgody na pobyt ze względów humanitarnych
 
-**Podstawa prawna – ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach – art. 195 ust. 1 pkt. 9 ustawy- wraz z aktami wykonawczymi**
+**Podstawa prawna – ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach – art. 195 ust. 1 pkt. 6 ustawy- wraz z aktami wykonawczymi**
 
 ## Komu i na jaki okres może zostać udzielone
 
-Cudzoziemcowi, posiadającemu ważną Kartę Polaka, który zamierza osiedlić się na terytorium Rzeczypospolitej Polskiej na stałe.
+Cudzoziemcowi, który bezpośrednio przed złożeniem wniosku o udzielenie mu zezwolenia na pobyt stały przebywał nieprzerwanie na terytorium Rzeczypospolitej Polskiej przez okres nie krótszy niż 5 lat na podstawie statusu uchodźcy, ochrony uzupełniającej lub zgody na pobyt ze względów humanitarnych.
 
 **Zezwolenie na pobyt stały udzielane jest na czas nieoznaczony.**
+
+## Wymóg nieprzerwanego pobytu – usprawiedliwione przerwy
+
+Cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie statusu uchodźcy, ochrony uzupełniające do wymaganego 5-letniego okresu pobytu , wlicza się okres pobytu cudzoziemca na tym terytorium w toku postępowania w sprawie nadania statusu uchodźcy, nawet jeżeli przebywał w tym okresie w strzeżonym ośrodku lub areszcie dla cudzoziemców.
+
+Pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej stanowiący podstawę do udzielenia mu zezwolenia na pobyt stały uznaje się za nieprzerwany, jeżeli żadna z przerw w nim nie była dłuższa niż 6 miesięcy i wszystkie przerwy nie przekroczyły łącznie 10 miesięcy w okresach stanowiących podstawę do udzielenia mu zezwolenia na pobyt stały, chyba że przerwa była spowodowana:
+
+1. wykonywaniem przez cudzoziemca obowiązków zawodowych lub świadczeniem przez niego pracy poza terytorium Rzeczypospolitej Polskiej na podstawie umowy zawartej z pracodawcą, którego siedziba znajduje się na terytorium Rzeczypospolitej Polskiej, lub
+2. towarzyszeniem cudzoziemcowi, o którym mowa w pkt 1, przez jego małżonka lub małoletnie dziecko, lub
+3. szczególną sytuacją osobistą wymagającą obecności cudzoziemca poza terytorium Rzeczypospolitej Polskiej i trwała nie dłużej niż 6 miesięcy, lub
+4. wyjazdem poza terytorium Rzeczypospolitej Polskiej w celu odbycia praktyk lub uczestnictwa w zajęciach, przewidzianych w toku studiów w polskiej uczelni.
 
 ## Gdzie i kiedy złożyć wniosek
 
@@ -23,7 +34,7 @@ Przy składaniu wniosku o udzielenie zezwolenia na pobyt stały cudzoziemcowi b�
 
 ## Opłaty związane z udzieleniem zezwolenia:
 
-Zwolnienie z opłaty skarbowej za zezwolenie na pobyt stały.
+Opłata skarbowa 640 zł
 Opłata za wydanie karty pobytu 50 zł
 
 Małoletniemu cudzoziemcowi, który do dnia złożenia wniosku o udzielenie zezwolenia na pobyt stały, nie ukończył 16. roku życia przysługuje ulga w opłacie za wydanie karty pobytu w wysokości 25 zł.
@@ -40,16 +51,10 @@ Małoletniemu cudzoziemcowi, który do dnia złożenia wniosku o udzielenie zezw
 
 **Uwaga:** Dołączenie wymienionych niżej dokumentów do wniosku przy jego składaniu może ograniczyć ilość korespondencji urzędowej i skrócić czas załatwienia sprawy.
 
-1. kserokopia ważnej Karty Polaka (oryginał do wglądu);
-2. dokumenty potwierdzające zamiar pozostania w Polsce na stałe.
+1. dokumenty potwierdzające posiadanie przez cudzoziemca statusu uchodźcy, ochrony uzupełniającej lub zgody na pobyt ze względów humanitarnych;
+2. dokumenty potwierdzające, że pobyt na terytorium Polski był nieprzerwany lub dokumenty stwierdzające przyczyny wystąpienia przerw w pobycie.
 
-**Uwaga:** W przypadku potrzeby wyjaśnienia lub doprecyzowania posiadanych przez organ dowodów w sprawie w trakcie postępowania cudzoziemiec może być wzywany do dostarczenia dodatkowych dokumentów lub do składania zeznań potwierdzających okoliczności, o których mowa we wniosku.
-
-## Status pobytowy po złożeniu wniosku
-
-Jeżeli wniosek o udzielenie zezwolenia na pobyt stały został złożony w trakcie legalnego pobytu cudzoziemca i wniosek ten nie zawierał braków formalnych lub braki formalne zostały uzupełnione w terminie, wojewoda zamieszcza w dokumencie podróży cudzoziemca **odcisk stempla**, który potwierdza złożenie wniosku. P**obyt cudzoziemca uważa się za legalny od dnia złożenia wniosku do dnia, w którym decyzja w sprawie udzielenia zezwolenia na pobyt stały stanie się ostateczna.**
-
-**UWAGA:** Umieszczenie stempla w dokumencie podróży nie uprawnia cudzoziemca do podróżowania po terytorium innych państw obszaru Schengen, natomiast cudzoziemiec może wyjechać do kraju pochodzenia, jednak aby powrócić do Polski powinien uzyskać wizę, jeśli pochodzi z państwa objętego obowiązkiem wizowym.
+**Uwaga:** W przypadku potrzeby wyjaśnienia lub doprecyzowania posiadanych przez organ dowodów w sprawie w trakcie postępowania cudzoziemiec może być wzywany do dostarczenia innych dokumentów lub do składania zeznań potwierdzających okoliczności, o których mowa we wniosku.
 
 ## Czas załatwienia sprawy
 
@@ -66,7 +71,3 @@ Pierwsza karta pobytu wydawana jest z urzędu przez wojewodę, który udzielił 
 ## Prawo do wykonywania pracy
 
 Cudzoziemiec, który posiada zezwolenie na pobyt stały uprawniony jest do wykonywania pracy na terytorium Polski bez konieczności posiadania zezwolenia na pracę. W karcie pobytu, wydanej w związku z udzieleniem cudzoziemcowi zezwolenia na pobyt stały zamieszczana jest adnotacja **,,dostęp do rynku pracy”**.
-
-## Obowiązek opuszczenia Polski po odmowie, umorzeniu albo cofnięciu zezwolenia na pobyt stały
-
-Cudzoziemiec jest obowiązany opuścić terytorium Rzeczypospolitej Polskiej w terminie 30 dni od dnia, w którym decyzja o odmowie udzielenia mu zezwolenia na pobyt stały, decyzja o umorzeniu postępowania w ww. sprawie lub decyzja o cofnięciu posiadanego przez niego zezwolenia stała się ostateczna, a w przypadku wydania decyzji przez organ wyższego stopnia, od dnia, w którym decyzja ostateczna została cudzoziemcowi doręczona, chyba że uprawniony jest on do dalszego pobytu na terytorium Polski na innej podstawie.
