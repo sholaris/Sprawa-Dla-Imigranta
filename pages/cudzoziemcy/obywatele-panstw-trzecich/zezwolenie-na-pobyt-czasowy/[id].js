@@ -1,7 +1,7 @@
-import FoldersHeaderBar from "../../../components/shared/Cudzoziemcy/FoldersHeaderBar";
-import BaseLayout from "../../../components/Layouts/BaseLayout";
-import { getAllIssuesIds, getIssueData } from "../../../lib/issues";
-import { Compress } from "../../../lib/utils";
+import FoldersHeaderBar from "../../../../components/shared/Cudzoziemcy/FoldersHeaderBar";
+import BaseLayout from "../../../../components/Layouts/BaseLayout";
+import { getAllIssuesIds, getIssueData } from "../../../../lib/issues";
+import { Compress } from "../../../../lib/utils";
 
 export async function getStaticPaths() {
   const paths = getAllIssuesIds();
@@ -24,7 +24,7 @@ const Issue = ({ issueData }) => {
   return (
     <BaseLayout title={`${issueData.title} | Sprawa Dla Imigranta`}>
       <FoldersHeaderBar
-        breadcrumb={`Cudzoziemcy|Obywatele państw trzecich|${
+        breadcrumb={`Cudzoziemcy|Obywatele państw trzecich|Zezwolenie na pobyt czasowy|${
           issueData.title.split(" ").length > 5
             ? Compress(issueData.title, 5) + `...`
             : issueData.title
