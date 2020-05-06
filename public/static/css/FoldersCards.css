@@ -11,6 +11,9 @@
   text-align: center;
   padding: 20px 100px;
 }
+.grey-box.folders.pobyt_czasowy {
+  padding: 20px 30px;
+}
 .folder-card {
   display: inline-flex;
   margin: 0 30px 40px 30px;
@@ -20,6 +23,10 @@
   box-shadow: 1px 1px 5px black;
   border: 2px solid var(--deep-blue);
   border-radius: 0;
+}
+.folder-card.pobyt_czasowy {
+  min-height: 403px;
+  margin: 0 15px 40px 15px;
 }
 .folder-card:hover {
   transform: none;
@@ -46,9 +53,14 @@
 .folder-card ul li {
   text-align: left;
 }
+.folder-card ul li a {
+  transition: 0.4s all ease;
+}
 .folder-card ul li a:hover {
   cursor: pointer;
-  font-weight: 700;
+  /* font-weight: 700; */
+  color: #353daa;
+  text-shadow: 0.2px 0.2px 1px rgb(29, 35, 122);
 }
 hr.folder-separator {
   margin: 8px 0;
