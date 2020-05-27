@@ -89,9 +89,12 @@ const FormsSection = () => {
           </div>
         </Col>
         <Col>
-          <div className="img-wrapper">
-            <img src="../static/img/img01.jpg" />
+          <div className="inner-container">
+            <div className="img-wrapper">
+              <img src="../static/img/filling_form3.jpg" />
+            </div>
           </div>
+
           <div className="button-container">
             <ButtonLink
               title="Wypełnij formularz"

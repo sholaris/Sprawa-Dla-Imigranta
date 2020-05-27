@@ -4,7 +4,7 @@ import PermitOptions from "../../../../components/shared/Cudzoziemcy/PermitOptio
 
 const Zezwolenie = () => {
   return (
-    <BaseLaytout title="Zezwolenie na pobyt stały">
+    <BaseLaytout title="Zezwolenie na pobyt stały | SprawaDlaImigranta.pl">
       <FoldersHeaderBar breadcrumb="Cudzoziemcy|Obywatele państw trzecich|Zezwolenie na pobyt stały" />
       <PermitOptions />
     </BaseLaytout>

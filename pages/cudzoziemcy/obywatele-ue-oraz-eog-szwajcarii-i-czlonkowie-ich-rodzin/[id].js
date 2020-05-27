@@ -22,7 +22,7 @@ export async function getStaticProps({ params }) {
 
 const Issue = ({ issueData }) => {
   return (
-    <BaseLayout title={`${issueData.title} | Sprawa Dla Imigranta`}>
+    <BaseLayout title={`${issueData.title} | SprawaDlaImigranta.pl`}>
       <FoldersHeaderBar
         breadcrumb={`Cudzoziemcy|Obywatele UE (oraz EOG/Szwajcarii) i czlonkowie ich rodzin|${
           issueData.title.split(" ").length > 5

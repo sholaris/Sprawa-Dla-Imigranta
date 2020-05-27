@@ -160,9 +160,15 @@ h3 {
   font-weight: 700;
 }
 /* FORMS SECTION - IMG */
+.inner-container {
+  display: grid;
+  justify-content: center;
+}
 .img-wrapper {
   background-color: var(--deep-blue);
   padding: 30px;
+  width: 600px;
+  height: 600px;
   text-align: center;
 }
 .img-wrapper img {

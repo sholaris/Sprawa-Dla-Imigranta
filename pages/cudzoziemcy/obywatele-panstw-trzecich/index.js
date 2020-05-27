@@ -8,7 +8,11 @@ const obywatelePT = () => {
   return (
     <BaseLayout title="Obywatele państw trzecich">
       <FoldersHeaderBar breadcrumb="Cudzoziemcy|Obywatele państw trzecich" />
-      <Folders header="Obywatele państw trzecich" type="obywatele_pt" />
+      <Folders
+        category="Obywatele państw trzecich"
+        header="Obywatele państw trzecich"
+        type="obywatele_pt"
+      />
       <ForumLink />
     </BaseLayout>
   );

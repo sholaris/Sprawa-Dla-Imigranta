@@ -6,10 +6,11 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const obywateleWB = () => {
   return (
-    <BaseLayout title="Obywatele Wielkiej Brytanii (Brexit)">
+    <BaseLayout title="Obywatele Wielkiej Brytanii (Brexit) | SprawaDlaImigranta.pl">
       <FoldersHeaderBar breadcrumb="Cudzoziemcy|Obywatele Wielkiej Brytanii (Brexit)" />
       <Folders
         header="Obywatele Wielkiej Brytanii (Brexit)"
+        category="Obywatele Wielkiej Brytanii (Brexit)"
         type="obywatele_wb"
       />
       <ForumLink />

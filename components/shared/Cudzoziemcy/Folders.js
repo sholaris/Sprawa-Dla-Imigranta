@@ -29,7 +29,7 @@ const Folders = (props) => {
       {issues.map((issue) => (
         <Folder
           type={props.type}
-          category={props.header}
+          category={props.category}
           title={issue.tytul}
           options={issue.opcje}
         />

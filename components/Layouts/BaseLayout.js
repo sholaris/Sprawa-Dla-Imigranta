@@ -18,7 +18,7 @@ const Navigation = () => {
           <Nav.Link href="/">Strona główna</Nav.Link>
           <Nav.Link href="/cudzoziemcy">Katalog spraw</Nav.Link>
           <Nav.Link href="/wnioski">Wnioski</Nav.Link>
-          <Nav.Link href="#link">Forum</Nav.Link>
+          <Nav.Link href="http://localhost:4000">Forum</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
@@ -54,7 +54,7 @@ const BaseLayout = ({ children, title = "Sprawa Dla Imigranta" }) => {
     <div>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta charset="utf-8" />
+        <meta charSet="utf-8" />
         <link rel="stylesheet" href="../static/styles.css" />
         <link
           href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&display=swap"

@@ -11,7 +11,7 @@ const Slider = () => {
             alt="First slide"
           />
           <Carousel.Caption>
-            <h3>Dostęność</h3>
+            <h3>Dostępność</h3>
             <p>Wszystkie potrzebne procedury w jednym miejscu</p>
           </Carousel.Caption>
         </Carousel.Item>

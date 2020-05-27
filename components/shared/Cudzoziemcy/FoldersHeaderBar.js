@@ -1,6 +1,7 @@
 import { Breadcrumb, Row, Container } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { generateHref } from "../../../lib/utils";
+import "../../../public/static/fontawesome/fontawesome";
 
 const FoldersHeaderBar = ({ breadcrumb }) => {
   const items = breadcrumb.split("|");

@@ -55,19 +55,19 @@ export const pobyt_czasowy = {
     },
     {
       tytul: "Działalność gospodarcza",
-      opcje: ["Zezwolenie w celu prowadzenia działalność gospodarcza"],
+      opcje: ["Zezwolenie w celu prowadzenia działalności gospodarczej"],
     },
     {
       tytul: "Studia i nauka",
       opcje: [
-        "Zezwolenie w celu kształcenia się na studia",
+        "Zezwolenie w celu kształcenia się na studiach",
         "Zezwolenie w celu odbywania nauki",
-        "Absolwent poszukujący pracy lub lub planujący wykonywanie działalności gospodarczej",
+        "Absolwent poszukujący pracy lub planujący wykonywanie działalności gospodarczej",
       ],
     },
     {
       tytul: "Stażysta",
-      opcje: ["Zezwolenie w celu odbyca stażu"],
+      opcje: ["Zezwolenie w celu odbycia stażu"],
     },
     {
       tytul: "Wolontariusz",

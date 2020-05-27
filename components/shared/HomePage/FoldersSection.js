@@ -16,13 +16,13 @@ const FoldersSection = () => {
           />
         </Col>
         <Col>
-          <img src="../static/img/img01.jpg" className="main-content" />
+          <img src="../static/img/folders.jpg" className="main-content" />
         </Col>
       </Row>
       <hr className="separator-main"></hr>
       <Row className="folders-row-content">
         <Col>
-          <img src="../static/img/img01.jpg" className="main-content" />
+          <img src="../static/img/info_search2.png" className="main-content" />
         </Col>
         <Col>
           <h2>ZNAJDŹ POTRZEBNE INFORMACJE</h2>
@@ -42,7 +42,7 @@ const FoldersSection = () => {
           />
         </Col>
         <Col>
-          <img src="../static/img/img01.jpg" className="main-content" />
+          <img src="../static/img/filling_form2.jpg" className="main-content" />
         </Col>
       </Row>
     </React.Fragment>

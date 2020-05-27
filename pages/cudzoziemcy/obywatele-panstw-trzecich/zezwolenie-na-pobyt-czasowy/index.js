@@ -5,9 +5,13 @@ import ForumLink from "../../../../components/shared/Cudzoziemcy/ForumLink";
 
 const PobytCzasowy = () => {
   return (
-    <BaseLayout title="Obywatele państw trzecich">
+    <BaseLayout title="Zezwolenie na pobyt czasowy | Obywatele państw trzecich">
       <FoldersHeaderBar breadcrumb="Cudzoziemcy|Obywatele państw trzecich|Zezwolenie na pobyt czasowy" />
-      <Folders header="Zezwolenie na pobyt czasowy" type="pobyt_czasowy" />
+      <Folders
+        category="Obywatele państw trzecich"
+        header="Zezwolenie na pobyt czasowy"
+        type="pobyt_czasowy"
+      />
       <ForumLink />
     </BaseLayout>
   );

@@ -28,7 +28,7 @@ W postępowaniu w sprawie wpisania zaproszenia do ewidencji zaproszeń stroną p
 
 Organem właściwym do wpisania zaproszenia do ewidencji zaproszeń jest **wojewoda** właściwy ze względu na miejsce zamieszkania lub siedzibę zapraszającego.
 
-### Wymagane dokumenty
+## Wymagane dokumenty
 
 Zapraszający ubiegający się o wpisanie zaproszenia do ewidencji zaproszeń składa:
 
@@ -38,7 +38,7 @@ Zapraszający ubiegający się o wpisanie zaproszenia do ewidencji zaproszeń sk
 
 **Uwaga:** Brak, któregokolwiek z ww. dokumentów spowoduje wezwanie cudzoziemca do jego uzupełnienia w terminie nie krótszym niż 7 dni od doręczenia wezwania pod rygorem pozostawienia wniosku bez rozpoznania. Ponadto, w przypadku potrzeby uzupełnienia lub doprecyzowania posiadanych przez organ dowodów w sprawie w trakcie postępowania zapraszający może być wzywany do dostarczenia innych dokumentów potwierdzających okoliczności, o których mowa we wniosku
 
-### Wysokość środków, które powinien posiadać zapraszający na pokrycie kosztów związanych z pobytem cudzoziemca:
+## Wysokość środków, które powinien posiadać zapraszający na pokrycie kosztów związanych z pobytem cudzoziemca:
 
 Zapraszający powinien posiadać środki finansowe w wysokości co najmniej :
 

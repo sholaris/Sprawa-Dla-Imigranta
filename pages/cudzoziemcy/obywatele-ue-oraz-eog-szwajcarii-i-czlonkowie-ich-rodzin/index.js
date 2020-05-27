@@ -6,10 +6,11 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const obywateleUE = () => {
   return (
-    <BaseLayout title="Obywatele UE (oraz EOG/Szwajcarii) i członkowie ich rodzin">
+    <BaseLayout title="Obywatele UE (oraz EOG/Szwajcarii) i członkowie ich rodzin | SprawaDlaImigranta.pl">
       <FoldersHeaderBar breadcrumb="Cudzoziemcy|Obywatele UE (oraz EOG/Szwajcarii) i członkowie ich rodzin" />
       <Folders
         header="Obywatele UE (oraz EOG/Szwajcarii) i członkowie ich rodzin"
+        category="Obywatele UE (oraz EOG/Szwajcarii) i członkowie ich rodzin"
         type="obywatele_ue"
       />
       <ForumLink />

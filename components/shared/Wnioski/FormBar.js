@@ -1,4 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import "../../../public/static/fontawesome/fontawesome";
 
 const FormBar = ({ name, label, icon, span, reference }) => {
   return (
@@ -9,7 +10,7 @@ const FormBar = ({ name, label, icon, span, reference }) => {
       <span className={span}>
         <span>{label}</span>
         <span className="icon">
-          <FontAwesomeIcon icon={icon} />
+          <FontAwesomeIcon className="form-bar" icon={icon} />
         </span>
       </span>
     </a>

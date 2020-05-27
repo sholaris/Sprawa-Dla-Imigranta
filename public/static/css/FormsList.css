@@ -139,7 +139,7 @@ ul.forms-links li span.fill {
   flex-wrap: wrap;
 }
 ul.forms-links span .fa-file-download,
-.fa-file-alt {
+.form-bar.fa-file-alt {
   height: 100%;
   padding-left: 20px;
 }
