@@ -59,7 +59,6 @@ const interaktywne = {
     "Wniosek o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy",
     "Wniosek o przedłużenie wizy krajowej",
     "Wniosek o przedłużenie wizy Schengen",
-    "Wniosek o wydanie lub wymianę karty pobytu",
   ],
 };
 
