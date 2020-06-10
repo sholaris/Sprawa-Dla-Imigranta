@@ -12,7 +12,7 @@ const SectionC = ({ values, errors, handleChange }) => {
             <Form.Label>1. Województwo</Form.Label>
           </Form.Group>
           <Form.Group s={12} md={10} lg={6} as={Col}>
-            <Form.Control as="select">
+            <Form.Control as="select" name="resVivodship">
               <option>dolnośląskie</option>
               <option>dolnośląskie</option>
               <option>dolnośląskie</option>

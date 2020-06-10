@@ -6,7 +6,7 @@ const AuthoritySelection = () => {
       <Col>
         <Form.Group>
           <Form.Label>Wniosek skierowany do</Form.Label>
-          <Form.Control as="select">
+          <Form.Control as="select" name="authority">
             <option>Wojewoda Dolnośląski</option>
             <option>Wojewoda Kujawsko-Pomorski</option>
             <option>Wojewoda Lubuski</option>
