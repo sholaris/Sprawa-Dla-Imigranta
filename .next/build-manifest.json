@@ -1,0 +1,141 @@
+{
+  "devFiles": [],
+  "lowPriorityFiles": [
+    "static/OYWuha0HGuxfXEZlWNcYs/_buildManifest.js",
+    "static/OYWuha0HGuxfXEZlWNcYs/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/css/878207113d9fd31dab97.css",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-ee4ee5083d7312778722.js"
+    ],
+    "/cudzoziemcy": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-panstw-trzecich": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/chunks/2ee45c6322a41418be9faa59e520137b3d0aa721.b339701b6e6a0d02cb6a.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-panstw-trzecich/[id]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-panstw-trzecich/zezwolenie-na-pobyt-czasowy": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/chunks/2ee45c6322a41418be9faa59e520137b3d0aa721.b339701b6e6a0d02cb6a.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-panstw-trzecich/zezwolenie-na-pobyt-czasowy/[id]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-panstw-trzecich/zezwolenie-na-pobyt-staly": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-panstw-trzecich/zezwolenie-na-pobyt-staly/[id]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-ue-oraz-eog-szwajcarii-i-czlonkowie-ich-rodzin": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/chunks/2ee45c6322a41418be9faa59e520137b3d0aa721.b339701b6e6a0d02cb6a.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-ue-oraz-eog-szwajcarii-i-czlonkowie-ich-rodzin/[id]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-wielkiej-brytanii-brexit": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/chunks/2ee45c6322a41418be9faa59e520137b3d0aa721.b339701b6e6a0d02cb6a.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/cudzoziemcy/obywatele-wielkiej-brytanii-brexit/[id]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ],
+    "/wnioski": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.61be3d4a7cddc2283fc7.js",
+      "static/chunks/cb1608f2.1bbff3bd594ee78905ac.js",
+      "static/chunks/commons.b0ce49c01c4ac5c30a65.js",
+      "static/chunks/8b804f2734c8fde82391a09aa4933923ee3f1e19.6b32eee802675ba578e3.js",
+      "static/runtime/main-ba1ac803d01d3a0e7e81.js"
+    ]
+  }
+}

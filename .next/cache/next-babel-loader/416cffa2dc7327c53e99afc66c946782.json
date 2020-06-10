@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport FoldersPageLayout from \"../components/Layouts/FoldersPageLayout\";\n\nconst Cudzoziemcy = () => {\n  return __jsx(FoldersPageLayout, {\n    title: \"Cudzoziemcy | SprawaDlaImigranta.pl\"\n  });\n};\n\nexport default Cudzoziemcy;","map":null,"metadata":{},"sourceType":"module"}
