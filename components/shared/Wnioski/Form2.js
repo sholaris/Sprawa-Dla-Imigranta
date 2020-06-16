@@ -110,7 +110,11 @@ const InteractiveForm = (props) => {
   );
 
   function submit() {
-    console.log("Form submitted successfuly!");
+    if (no_err == true) {
+      location.replace("../../static/pdfs/Wniosek-o-udzielenie-cudzoziemcowi-zezwolenia-na-pobyt-czasowy.pdf")
+    } else {
+      console.log(errors);
+    }
   }
   return (
     <div className="gray-box forms">

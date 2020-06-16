@@ -16,8 +16,17 @@ const useForm = (callback, validate, initialState) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setErrors(validate(values));
-    callback();
+    var no_err = true
+    for (var error in errors) {
+      if (errors[error] != '') {
+        no_err = false;
+        break;
+      }
+    }
+    callback(no_err);
+    
   };
+  
   return {
     handleChange,
     handleSubmit,

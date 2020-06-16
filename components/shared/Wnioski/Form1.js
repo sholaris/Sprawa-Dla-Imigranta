@@ -25,7 +25,7 @@ const initialState = {
   citizenShip: "",
   maritalStatus: "",
   education: "",
-  practisedProffesion: "",
+  practisedProffession: "",
   length: "",
   eyesColour: "",
   specialMarks: "",
@@ -587,7 +587,13 @@ const SectionD = ({ values, errors, handleChange }) => {
         <Form.Label>Liczba osób pozostających na utrzymaniu</Form.Label>
       </Form.Group>
       <Form.Group as={Col} xs={8} md={4} lg={2}>
-        <Form.Control type="text" maxLength={2}></Form.Control>
+        <Form.Control
+          type="text"
+          name="peoplePersist"
+          onChange={handleChange}
+          value={values.peoplePersist}
+          maxLength={2}
+        ></Form.Control>
       </Form.Group>
       <Col xs={12}>
         <h4>
@@ -738,7 +744,11 @@ const InteractiveForm = (props) => {
   );
 
   function submit() {
-    console.log("Form submitted successfuly!");
+    if (no_err == true) {
+      location.replace("../../static/pdfs/Wniosek-o-udzielenie-zezwolenia-na-pobyt-rezydenta-długoterminowego.pdf")
+    } else {
+      console.log(errors);
+    }
   }
   return (
     <div className="gray-box forms">

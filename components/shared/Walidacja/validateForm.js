@@ -43,6 +43,7 @@ export default function validate(values) {
   let errors = {};
   const empty_field_error = "Pole nie może być puste";
   const wrong_date_error = "Podaj datę z przeszłości";
+  const wrong_date_error2 = "Podaj datę z przyszłości";
   const wrong_postalcode_error = "Podaj kod pocztowy w formacie nn-nnn";
   const input_birthDate = new Date(values.birthDate);
   const input_docIssueDate = new Date(values.docIssueDate);
@@ -70,8 +71,8 @@ export default function validate(values) {
   if (input_docIssueDate >= today) {
     errors.docIssueDate = wrong_date_error;
   }
-  if (input_docExpiryDate >= today) {
-    errors.docExpiryDate = wrong_date_error;
+  if (input_docExpiryDate <= today) {
+    errors.docExpiryDate = wrong_date_error2;
   }
   if (!validateLength(values.length)) {
     errors.length = "Podaj poprawną wartość";
@@ -126,8 +127,8 @@ export default function validate(values) {
   if (!values.visaIssueDate) {
     errors.visaIssueDate = "";
   }
-  if (input_visaExpiryDate >= today) {
-    errors.visaExpiryDate = wrong_date_error;
+  if (input_visaExpiryDate <= today) {
+    errors.visaExpiryDate = wrong_date_error2;
   }
   if (!values.visaExpiryDate) {
     errors.visaExpiryDate = "";
@@ -144,8 +145,8 @@ export default function validate(values) {
   if (!values.resCardIssueDate) {
     errors.resCardIssueDate = "";
   }
-  if (input_resCardExpiryDate >= today) {
-    errors.resCardExpiryDate = wrong_date_error;
+  if (input_resCardExpiryDate <= today) {
+    errors.resCardExpiryDate = wrong_date_error2;
   }
   if (!values.resCardExpiryDate) {
     errors.resCardExpiryDate = "";
@@ -155,6 +156,24 @@ export default function validate(values) {
   }
   if (!values.decisionIssueDate) {
     errors.decisionIssueDate = "";
+  }
+  if (values.sentencedInPoland == "Y" && values.sentencedDesc == "") {
+    errors.sentencedDesc = empty_field_error;
+  }
+  if (values.sentencedInPoland == "N") {
+    errors.sentencedDesc = "";
+  }
+  if (values.penalInPoland == "Y" && values.penalDesc == "") {
+    errors.penalInPoland = empty_field_error;
+  }
+  if (values.penalInPoland == "N") {
+    errors.penalInPoland = "";
+  }
+  if (values.penalInPoland == "Y" && values.penalDesc == "") {
+    errors.penalInPoland = empty_field_error;
+  }
+  if (values.penalInPoland == "N") {
+    errors.penalInPoland = "";
   }
 
   return errors;

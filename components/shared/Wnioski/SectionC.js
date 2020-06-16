@@ -13,22 +13,22 @@ const SectionC = ({ values, errors, handleChange }) => {
           </Form.Group>
           <Form.Group s={12} md={10} lg={6} as={Col}>
             <Form.Control as="select" name="resVivodship">
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
-              <option>dolnośląskie</option>
+              <option>Województwo Dolnośląskie</option>
+              <option>Województwo Kujawsko-Pomorskie</option>
+              <option>Województwo Lubuskie</option>
+              <option>Województwo Lubelskie</option>
+              <option>Województwo Mazowieckie</option>
+              <option>Województwo Małopolskie</option>
+              <option>Województwo Opolskie</option>
+              <option>Województwo Podkarpackie</option>
+              <option>Województwo Podlaskie</option>
+              <option>Województwo Warmińsko-Mazurskie</option>
+              <option>Województwo Pomorskie</option>
+              <option>Województwo Wielkopolskie</option>
+              <option>Województwo Zachodniopomorskie</option>
+              <option>Województwo Łódzkie</option>
+              <option>Województwo Śląskie</option>
+              <option>Województwo Świętokrzyskie</option>
             </Form.Control>
             <Form.Text>* pole jest wymagane</Form.Text>
           </Form.Group>
@@ -151,11 +151,6 @@ const SectionC = ({ values, errors, handleChange }) => {
                     <p className="error-msg">{errors.resPostalCode}</p>
                   )}
                 </Form.Group>
-              </Form.Group>
-              <Form.Group className="filed-title" as={Col} xs={12}>
-                <Form.Label>
-                  9. Tytuł prawny do zajmowania przez wnioskodawcę lokalu
-                </Form.Label>
               </Form.Group>
             </Form.Row>
           </Form.Group>

@@ -119,15 +119,15 @@ const SectionA = ({ values, errors, handleChange }) => {
           </Form.Group>
           <Form.Group s={12} md={10} lg={6} as={Col}>
             <Form.Control
-              className={`${errors.motherName && "input-error"} `}
+              className={`${errors.mothersName && "input-error"} `}
               type="text"
               name="mothersName"
-              value={values.motherName}
+              value={values.mothersName}
               onChange={handleChange}
             ></Form.Control>
             <Form.Text>* pole jest wymagane</Form.Text>
-            {errors.motherName && (
-              <p className="error-msg">{errors.motherName}</p>
+            {errors.mothersName && (
+              <p className="error-msg">{errors.mothersName}</p>
             )}
           </Form.Group>
           <Form.Group className="filed-title" xs={12} as={Col}>
@@ -288,15 +288,15 @@ const SectionA = ({ values, errors, handleChange }) => {
           </Form.Group>
           <Form.Group s={12} md={10} lg={6} as={Col}>
             <Form.Control
-              className={`${errors.practisedProffesion && "input-error"} `}
+              className={`${errors.practisedProffession && "input-error"} `}
               type="text"
-              name="practisedProfession"
-              value={values.practisedProffesion}
+              name="practisedProffession"
+              value={values.practisedProffession}
               onChange={handleChange}
             ></Form.Control>
             <Form.Text>* pole jest wymagane</Form.Text>
-            {errors.practisedProffesion && (
-              <p className="error-msg">{errors.practisedProffesion}</p>
+            {errors.practisedProffession && (
+              <p className="error-msg">{errors.practisedProffession}</p>
             )}
           </Form.Group>
           <Form.Group className="filed-title" xs={12} as={Col}>

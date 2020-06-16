@@ -9,7 +9,7 @@ const initialState = {
   familyName: "",
   name1: "",
   fathersName: "",
-  motherName: "",
+  mothersName: "",
   mothersMaidenName: "",
   birthDate: "",
   sex: "",
@@ -56,7 +56,11 @@ const InteractiveForm = (props) => {
   );
 
   function submit() {
-    console.log("Form submitted successfuly!");
+    if (no_err == true) {
+      location.replace("../../static/pdfs/Wniosek-o-przedłużenie-wizy-krajowej.pdf")
+    } else {
+      console.log(errors);
+    }
   }
 
   return (

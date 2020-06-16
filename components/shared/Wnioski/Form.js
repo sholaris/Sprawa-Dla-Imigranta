@@ -12,10 +12,15 @@ import ButtonPDF from "./ButtonGenPDF";
 
 const initialState = {
   surname: "",
+  previousSurname1: "",
+  previousSurname12: "",
   familyName: "",
   name1: "",
+  name2: "",
+  previousName1: "",
+  previousName2: "",
   fathersName: "",
-  motherName: "",
+  mothersName: "",
   mothersMaidenName: "",
   birthDate: "",
   sex: "",
@@ -25,7 +30,7 @@ const initialState = {
   citizenShip: "",
   maritalStatus: "",
   education: "",
-  practisedProffesion: "",
+  practisedProffession: "",
   length: "",
   eyesColour: "",
   specialMarks: "",
@@ -44,7 +49,7 @@ const initialState = {
   resApartmentNumber: "",
   resPostalCode: "",
   spouseSurname: "",
-  spousesName1: "",
+  spouseName1: "",
   spouseBirthDate: "",
   spouseSex: "",
   spouseCitizenShip: "",
@@ -726,7 +731,6 @@ const SectionD = ({ values, errors, handleChange }) => {
           value="Y"
           id="sentencedInPoland1"
           name="sentencedInPoland"
-          value={values.sentencedInPoland}
           onChange={handleChange}
         ></Form.Check>
         <Form.Check
@@ -735,7 +739,6 @@ const SectionD = ({ values, errors, handleChange }) => {
           value="N"
           id="sentencedInPoland2"
           name="sentencedInPoland"
-          value={values.sentencedInPoland}
           onChange={handleChange}
         ></Form.Check>
         <Form.Text>* pole jest wymagane</Form.Text>
@@ -771,7 +774,6 @@ const SectionD = ({ values, errors, handleChange }) => {
           value="Y"
           id="penalInPolan1"
           name="penalInPoland"
-          value={values.penalInPoland}
           onChange={handleChange}
         ></Form.Check>
         <Form.Check
@@ -780,7 +782,6 @@ const SectionD = ({ values, errors, handleChange }) => {
           value="N"
           id="penalInPolan2"
           name="penalInPoland"
-          value={values.penalInPoland}
           onChange={handleChange}
         ></Form.Check>
         <Form.Text>* pole jest wymagane</Form.Text>
@@ -812,8 +813,7 @@ const SectionD = ({ values, errors, handleChange }) => {
           label="Tak"
           value="Y"
           id="complyWithFiscal1"
-          name="complyWithFiscal"
-          value={values.complyWithFiscus}
+          name="complyWithFiscus"
           onChange={handleChange}
         ></Form.Check>
         <Form.Check
@@ -821,8 +821,7 @@ const SectionD = ({ values, errors, handleChange }) => {
           label="Nie"
           value="N"
           id="complyWithFiscal2"
-          name="complyWithFiscal"
-          value={values.complyWithFiscus}
+          name="complyWithFiscus"
           onChange={handleChange}
         ></Form.Check>
         <Form.Text>* pole jest wymagane</Form.Text>
@@ -841,8 +840,13 @@ const InteractiveForm = (props) => {
     initialState
   );
 
-  function submit() {
-    console.log("Form submitted successfuly!");
+  function submit(no_err) {
+    if (no_err == true) {
+      location.replace("../../static/pdfs/Wniosek-o-udzielenie-zezwolenia-na-pobyt-stały.pdf")
+    } else {
+      console.log(errors);
+    }
+    
   }
   return (
     <div className="gray-box forms">
@@ -878,7 +882,7 @@ const InteractiveForm = (props) => {
                 handleChange={handleChange}
               />
               <Annexes />
-              <ButtonPDF />
+              <ButtonPDF reference="../../static/pdfs/Wniosek-o-udzielenie-zezwolenia-na-pobyt-stały.pdf"/>
             </Form>
           </Col>
         </Row>
